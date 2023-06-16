@@ -1,7 +1,7 @@
-# BCD TO GREY CONVERTION USING VERLOG
+# Design and simulate mod 12 synchronous upcounter with T flip flop using Verilog.
 
 ## AIM:
-Design and simulate mod 12 synchronous upcounter with T flip flop using Verilog.
+To Design and simulate mod 12 synchronous upcounter with T flip flop using Verilog.
 
 ## Equipments Required:
 1. Hardware – PCs, Cyclone II , USB flasher
